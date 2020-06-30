@@ -1,0 +1,2 @@
+# Analysis-and-Vizualization-of-Super-Bowl-Dataset-with-correlation-to-Television
+Exploratory Data analysis was performed in the Super bowl Dataset merged with the associated Television Broadcasting Dataset.  - Identifying the thresholds of the Gameplay.  - Observing the spectator's behaviour with relation to the match Statistics.  - Detecting the pattern similarity between the Advertisement costs and entertainment performance.  - Visualization of all these insights using Seaborne and Matplotlib libraries.  - The Dataset was handled using Pandas and Numpy.
